@@ -1,28 +1,26 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mayank Negi</h1>
-<h3 align="center">Front-End Developer | CSE Student | Cybersecurity Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | CSE Student | Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎯 Front-End Developer passionate about building clean & interactive UI  
-- 💻 CSE student exploring **full-stack & cybersecurity**
+- 🎯 MERN Stack Developer passionate about building scalable web apps  
+- 💻 CSE student exploring **full-stack systems & cybersecurity**
 - 🔐 Cybersecurity learner with hands-on tools experience
-- 🌱 Currently improving **React & DevSecOps concepts**
+- 🌱 Currently improving **React, Backend & DevSecOps concepts**
 
 ---
 
-## 🖥️ Front-End Development
+## 🧩 MERN Stack Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-**Tech I use:**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
+**Tech Stack:**
+- MongoDB  
+- Express.js  
+- React.js  
+- Node.js  
 
 ---
 
@@ -71,5 +69,4 @@
 
 ---
 
-⭐ *“Consistency beats talent when talent doesn’t work consistently.”*
-
+⭐ *“Build. Break. Secure. Repeat.”*
